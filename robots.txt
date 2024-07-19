@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://chiresiu.github.io/sitemap
+Sitemap: https://chiresiu.github.io/app/sitemap
+Sitemap: https://chiresiu.github.io/assets/sitemap
+Sitemap: https://chiresiu.github.io/css/sitemap
+Sitemap: https://chiresiu.github.io/includes/sitemap
+Sitemap: https://chiresiu.github.io/item/sitemap
+Sitemap: https://chiresiu.github.io/src/sitemap
